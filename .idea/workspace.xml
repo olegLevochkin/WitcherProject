@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda763e5-361b-4940-9356-7e22dc775d84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/The Witcher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/jquery.fancybox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/swiper.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MasonChronicles.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/MasonChronicles.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/play.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/series/card-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social/facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social/instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/social/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/star-o.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.fancybox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/swiper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +65,30 @@
       <workItem from="1580815297249" duration="28639000" />
       <workItem from="1581153433486" duration="95000" />
       <workItem from="1581156294277" duration="3518000" />
-      <workItem from="1583065638560" duration="297000" />
+      <workItem from="1583065638560" duration="584000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1583065961146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583065961146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="166" y="0" key="CommitChangelistDialog2" timestamp="1583065959100">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="166" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583065959100" />
     <state x="404" y="62" key="FileChooserDialogImpl" timestamp="1581152873010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
